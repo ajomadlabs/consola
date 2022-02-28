@@ -60,7 +60,7 @@ import consola from 'consola/src/node'
 import consola from 'consola/src/browser'
 ```
 
-## Methods
+## Method
 
 #### `<type>(logObject)` `<type>(args...)`
 

@@ -1,4 +1,6 @@
+// Importing
 import { LogLevel } from './logLevels.js'
+
 
 export default {
   // Silent
